@@ -1,0 +1,15 @@
+{
+  "name": "NodeJsGpsTrackerRestService",
+  "version": "0.0.1",
+  "description": "GPS Tracker Rest Service",
+  "scripts": {
+   	"start": "node app.js"
+  },
+ "dependencies": {
+    "ibm_db":"0.0.8"
+    },
+    "engines": {
+    "node": "0.10.26"
+    },
+    "repository": {}
+}

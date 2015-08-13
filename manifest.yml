@@ -1,0 +1,10 @@
+---
+applications:
+- name: NodeJsGpsTrackerRestService
+  memory: 128M
+  host: NodeJsGpsTrackerRestService
+  domain: mybluemix.net
+  env: {
+    }
+  services: {
+    }
